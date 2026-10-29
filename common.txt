@@ -1,1 +1,1 @@
-This is the content from conflict branch 1.
+This is the resolved project content after merging both branches.
